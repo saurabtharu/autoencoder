@@ -19,3 +19,7 @@
 
 **Research Paper**
 * [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+
+
+**Playlist**
+* [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
